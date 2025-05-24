@@ -12,3 +12,5 @@ How well have you been managing your time?
 I feel like I have a hard time dedicating the proper amount of time to this class. It does a great job of motivating me to learn new and interesting things but I find it hard to learn, document, and give feedback, within the amount of time I should be spending on this class. I also want to be doing more for this class. I also can't seem to figure out which things are and are not worth going down the rabbit hole into.
 How could you (if possible) improve your time management?
 I think I need to spend more time on documentation. As much as I would like spending all my time doing deep dives, I need to approach this more like I am a small part of a swarm intelligence for future classes. 
+
+[[Week 5 Reflections]]

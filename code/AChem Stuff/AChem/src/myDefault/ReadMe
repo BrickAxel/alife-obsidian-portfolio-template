@@ -1,0 +1,11 @@
+Run NextRunner to run the program- different tests do different things
+
+Hashstyle creates the particle library
+
+AL is the action listener and controls spinning
+
+UnrelatedStringCombo is unrealted to this project
+
+Particle is the little squares in the simulation.
+
+everything else is graphics related 

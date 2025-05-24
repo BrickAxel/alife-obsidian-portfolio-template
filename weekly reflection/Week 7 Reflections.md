@@ -6,8 +6,12 @@ Dominic - One of the best examples of a program taking advantage of the physics 
 
 How does it connect to what you learned from your own work?
 
-Angiogenesis felt very separate from everything else but everything also felt like a small part of it. While none of the concepts would heavily overlap for things like implementation, the concepts of angiogenesis could pop it's head out of any of the other topics.
+Autopoiesis felt very separate from everything else but everything also felt like a small part of it. While none of the concepts would heavily overlap for things like implementation, the concepts of Autopoiesis could pop it's head out of any of the other topics.
 
 What would you like to learn more about?
 
-I would like to learn more on at what point something is considered to be a alive. It seems to me like the closest thing at the moment is just kind of semantics about a defined interier and exterior for an angiogenesis model.
+I would like to learn more on at what point something is considered to be a alive. It seems to me like the closest thing at the moment is just kind of semantics about a defined interior and exterior for an Autopoiesis model.
+
+[[Autopoiesis]]
+
+[[Week 8 Reflections]]

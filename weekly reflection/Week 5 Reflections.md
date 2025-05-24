@@ -8,4 +8,6 @@ The first presentation specifically made me wonder about storing/creating some o
 
 What would you like to learn more about?
 
-Voxel automata. I feel like a combination of Voxel automata and artificial Embriogeny could be used as a stepping stone towards antibiotic or protein shape creation. I should also look into recursive patterns within my simulation to see if I could move up an additional level of abstraction. 
+Voxel automata. I feel like a combination of Voxel automata and artificial Embriogeny could be used as a stepping stone towards antibiotic or protein shape creation. I should also look into recursive patterns within my simulation to see if I could move up an additional level of abstraction.
+
+[[Week 6 Reflections]]

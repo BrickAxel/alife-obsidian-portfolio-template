@@ -13,4 +13,5 @@ Honestly I still want to go full tilt at chemistry/physics.
 How do you plan to manage your time with the expectation of spending  ~3.5 or more hours of time outside of class between Thursday and Tuesday class sessions?
 The time spent reading took up the expected about of time. I need to set aside more time for the presentation.
 
+[[Week 1 Notes]]
 On to [[Week 2 Reflections - The Physics of Life and ALIFE]]

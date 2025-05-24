@@ -11,3 +11,6 @@ My work focused around the development of emotions from the ground up. This make
 
 What would you like to learn more about?
 What is the maximum for most conscious thing possible. Humans are by no means a hard cap. This does raise questions about how conscious babies and animals are.
+
+[[Feelings]]
+[[Week 10 Reflections]]

@@ -7,3 +7,5 @@ The main connection was that everyone has there own learning curve, mine was pyt
 
 What would you like to learn more about?
 AChemistry, I want to learn about AChemistry and AConsciousness . 
+
+[[Week 3 Reflections]]

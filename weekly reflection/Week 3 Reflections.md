@@ -9,3 +9,4 @@ What would you like to learn more about?
 I want to learn more about simulating Achem and ways of moving between different levels of abstraction. I think I would like my simulation to be as close as possible to reality while acknowledging that it is slightly different in specific ways. Ideally I would eventually like to be able to do mixed levels of abstraction where I can create higher level structures that can accurately interact with lower level entities. 
 
 [[3-31-2025 worklog-notes]]
+[[Week 4 Reflections]]

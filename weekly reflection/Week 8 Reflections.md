@@ -12,3 +12,6 @@ I feel like automating the search for good AI paper writers could be really good
 What would you like to learn more about?
 
 I would like to learn more about automated paper writing because I want an AI that will watch me work and then do the documentation for me. I know we are a ways off but we are getting closer.
+
+[[The AI scientist]]
+[[Week 9 Reflections]]

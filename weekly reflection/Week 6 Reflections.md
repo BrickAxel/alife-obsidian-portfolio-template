@@ -11,3 +11,7 @@ The Catastrophic forgetting felt like a solid deeper understanding of part of th
 What would you like to learn more about?
 
 NMs is tempting but so is personally creating a version of omniglot. Maybe I'll learn about both with time.
+
+[[Meta-Learning]]
+
+[[Week 7 Reflections]]
