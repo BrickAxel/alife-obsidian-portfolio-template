@@ -10,5 +10,7 @@ How would you define life?
 
 The more conscious something is, the more alive it is. In theory consciousness could be measurable, so how alive something is could be too.
 
+[[Sci-Fi Final Paper]]
+
 Back to the start? [[Week 1 Reflections - The Science of ALIFE]]
 
